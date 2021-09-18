@@ -19,8 +19,8 @@
 
 ### App Walkthough GIF
 
-<img src="portrait.gif2" width=250><br>
-<img src="portrait.gif3" width=250><br>
+<img src="gif2.gif" width=250><br>
+<img src="gif3.gif" width=250><br>
 
 ### Notes
 
